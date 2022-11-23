@@ -1,0 +1,16 @@
+.img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.body {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100%;
+    width: 100%;
+}
+
+#err {
+    display: none;
+}
